@@ -1,0 +1,16 @@
+# Node.js (Frontend)
+node_modules/
+dist/
+
+# Python/Django (Backend)
+venv/
+__pycache__/
+db.sqlite3
+
+# Java/Spring Boot (Backend)
+target/
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
